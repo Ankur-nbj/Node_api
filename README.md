@@ -22,8 +22,8 @@ This Node.js application provides a REST API to find and sort users within a 10-
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Ankur-nbj/Node_api.git
+   cd Node_api
    ```
 
 2. **Install Dependencies**
